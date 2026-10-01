@@ -1,3 +1,3 @@
 # FreeBASIC Binaries
 
-The prebuilt-binaries are taken from https://sourceforge.net/projects/fbc/
+The prebuilt-binaries are from https://sourceforge.net/projects/fbc/
